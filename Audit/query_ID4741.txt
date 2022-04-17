@@ -1,0 +1,28 @@
+Event[0]:
+  Log Name: Security
+  Source: Microsoft-Windows-Security-Auditing
+  Date: EXAMPLE_DATE
+  Event ID: EXAMPLE_EVENT_ID
+  Task: User Account Management
+  Level: EXAMPLE_LEVEL
+  Opcode: EXAMPLE_CODE
+  Keyword: EXAMPLE_KEYWORD
+  User: N/A
+  User Name: N/A
+  Computer: EXAMPLE_COMPUTER
+  Description: 
+EXAMPLE_DESCRIPTION
+
+Subject:
+	Security ID:		EXAMPLE_SEC_ID
+	Account Name:		EXAMPLE_ACCOUNT
+	Account Domain:		EXAMPLE_DOMAIN
+	Logon ID:		EXAMPLE
+
+Account That Was Locked Out:
+	Security ID:		EXAMPLE_SEC_ID
+	Account Name:		EXAMPLE_ACCOUNT
+
+Additional Information:
+	Caller Computer Name:	EXAMPLE_NAME
+
