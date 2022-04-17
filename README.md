@@ -6,4 +6,4 @@
  2. Run in cmd `py -m pip install requests`
  3. Drop script in your run folder
  4. Configure main.py in `# Config`
- 5. Add script in `actions` from `task sheduler`
+ 5. Add script in `actions` on `task sheduler`
